@@ -12,5 +12,12 @@
     "role": "user",
     "expiresAt": 1764947396024,
     "createdAt": 1757084996026
+  },
+  {
+    "username": "abababba",
+    "password": "gag",
+    "role": "user",
+    "expiresAt": 1762355426675,
+    "createdAt": 1757085026675
   }
 ]
