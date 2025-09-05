@@ -1,12 +1,5 @@
 [
   {
-    "username": "kayla",
-    "password": "mypassword",
-    "role": "reseller",
-    "expiresAt": 1757356800000,
-    "createdAt": 1725532800000
-  },
-  {
     "username": "ahmad",
     "password": "12345",
     "role": "user",
