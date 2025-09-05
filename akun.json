@@ -1,17 +1,16 @@
 [
   {
-    "number": "6285857783208",
-    "username": "111",
-    "password": "111"
+    "username": "kayla",
+    "password": "mypassword",
+    "role": "reseller",
+    "expiresAt": 1757356800000,
+    "createdAt": 1725532800000
   },
   {
-    "number": "6289876543210",
-    "username": "ZahraX",
-    "password": "passRahasia"
-  },
-  {
-    "number": "6281367314466",
-    "username": "222",
-    "password": "222"
+    "username": "ahmad",
+    "password": "12345",
+    "role": "user",
+    "expiresAt": 1757356800000,
+    "createdAt": 1725532800000
   }
 ]
