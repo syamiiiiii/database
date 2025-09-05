@@ -5,5 +5,12 @@
     "role": "owner",
     "expiresAt": null,
     "createdAt": 1757084487716
+  },
+  {
+    "username": "Hajdja",
+    "password": "21818",
+    "role": "user",
+    "expiresAt": 1764947396024,
+    "createdAt": 1757084996026
   }
 ]
