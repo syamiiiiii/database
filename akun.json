@@ -75,5 +75,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1757150068070
+  },
+  {
+    "username": "Syami",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1759743076246,
+    "createdAt": 1757151076246
   }
 ]
