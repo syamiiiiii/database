@@ -103,12 +103,5 @@
     "role": "user",
     "expiresAt": 1759750031435,
     "createdAt": 1757158031435
-  },
-  {
-    "username": "Abchs",
-    "password": "1",
-    "role": "reseller",
-    "expiresAt": null,
-    "createdAt": 1757162615854
   }
 ]
