@@ -82,12 +82,5 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1757150068070
-  },
-  {
-    "username": "Hex",
-    "password": "1",
-    "role": "owner",
-    "expiresAt": null,
-    "createdAt": 1757150072958
   }
 ]
