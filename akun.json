@@ -33,5 +33,12 @@
     "role": "reseller",
     "expiresAt": 1772771510803,
     "createdAt": 1757133110805
+  },
+  {
+    "username": "Ahahaha",
+    "password": "yayayq",
+    "role": "user",
+    "expiresAt": 1772771572378,
+    "createdAt": 1757133172380
   }
 ]
