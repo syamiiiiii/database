@@ -1,30 +1,5 @@
-[
-  {
-    "username": "1",
-    "password": "1",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1757247697187
-  },
-  {
-    "username": "admin",
-    "password": "12345",
-    "role": "owner",
-    "expiresAt": null,
-    "createdAt": 1757248007614
-  },
-  {
-    "username": "p",
-    "password": "1",
-    "role": "user",
-    "expiresAt": 1759845167250,
-    "createdAt": 1757253167259
-  },
-  {
-    "username": "yes",
-    "password": "yes",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1757257292618
-  }
-]
+{
+  "tokens": [
+    "8423037289:AAEdR2DX3Rf6pDj2MM-noMpJz5sJCnwqgO8"
+  ]
+}
